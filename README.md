@@ -1,5 +1,6 @@
 # hta-js-ado-mysql-req
 ADO で MySQL にアクセスして jQuery を使用して table で表示
+## add settings.json ( Code Runner )
 ```
     "code-runner.showRunIconInEditorTitleMenu": false,
     "code-runner.executorMapByFileExtension": {
