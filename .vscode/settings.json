@@ -5,5 +5,10 @@
         ".hta": "C:\\Windows\\SysWOW64\\mshta.exe",
         ".htm": "C:\\Windows\\SysWOW64\\mshta.exe"
     },
-    "terminal.integrated.fontSize": 16 
+    "code-runner.fileDirectoryAsCwd": true,
+    "files.associations": {
+        ".htm": "html",
+        ".hta": "html"
+    },
+    "terminal.integrated.fontSize": 16
 }
